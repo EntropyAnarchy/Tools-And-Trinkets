@@ -1,5 +1,7 @@
 #!/bin/bash
 
+### Works on Sierra Wireless, Simtech, and Qualcomm modems ###
+
 # Define the modem file to check
 FILE="/dev/ttyUSB2"
 
